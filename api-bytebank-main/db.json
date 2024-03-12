@@ -1,0 +1,140 @@
+{
+  "transacoes": [
+    {
+      "transacao": "Depósito",
+      "valor": "150",
+      "data": "18/11/2022",
+      "mes": "Novembro",
+      "id": 1
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "100",
+      "data": "21/11/2022",
+      "mes": "Novembro",
+      "id": 2
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "500",
+      "data": "05/01/2023",
+      "mes": "Janeiro",
+      "id": 3
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "1500",
+      "data": "05/01/2023",
+      "mes": "Janeiro",
+      "id": 4
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "250",
+      "data": "05/01/2023",
+      "mes": "Janeiro",
+      "id": 5
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "11/03/2024",
+      "mes": "Março",
+      "id": 6
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "11/03/2024",
+      "mes": "Março",
+      "id": 7
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "11/03/2024",
+      "mes": "Março",
+      "id": 8
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "11/03/2024",
+      "mes": "Março",
+      "id": 9
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "11/03/2024",
+      "mes": "Março",
+      "id": 10
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "11/03/2024",
+      "mes": "Março",
+      "id": 11
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "11/03/2024",
+      "mes": "Março",
+      "id": 12
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "11/03/2024",
+      "mes": "Março",
+      "id": 13
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "11/03/2024",
+      "mes": "Março",
+      "id": 14
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "11/03/2024",
+      "mes": "Março",
+      "id": 15
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "11/03/2024",
+      "mes": "Março",
+      "id": 16
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "11/03/2024",
+      "mes": "Março",
+      "id": 17
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "11/03/2024",
+      "mes": "Março",
+      "id": 18
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "11/03/2024",
+      "mes": "Março",
+      "id": 19
+    }
+  ],
+  "saldo": {
+    "valor": 2630
+  }
+}
